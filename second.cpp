@@ -6,5 +6,5 @@ int main(){
     cin>>name;
     cin>>age;
     cout<<"My name is :"<<name<<endl; // Enter Name here
-    cout<<"My age is :"<<age;
+    cout<<"My age is :"<<age; // Enter Age
     }
