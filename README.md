@@ -1,1 +1,1 @@
-# gameingfunhub
+# gamingfunhub
